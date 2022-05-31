@@ -1,0 +1,234 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conventional signs used on 1:50 000 maps</title>
+  <metadata>
+  <md:content-id>m31934</md:content-id><md:title>Conventional signs used on 1:50 000 maps</md:title>
+  <md:abstract/>
+  <md:uuid>f378607e-6ca3-498b-9a96-c4b2c2945323</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165291132563">
+      <title>Social Sciences</title>
+      <para id="para-id1165291132563">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165290620287">
+      <title>GEOGRAPHY</title>
+      <para id="para-id1165290620287">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165287741119">
+      <title>Grade 8</title>
+      <para id="para-id1165287741119">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165294423800">
+      <title>MAPWORK</title>
+      <para id="para-id1165294423800">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165290728459">
+      <title>Module 15</title>
+      <para id="para-id1165290728459">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165293303197">
+      <title>CONVENTIONAL SIGNS USED ON 1:50000 MAPS</title>
+      <figure id="id1165287679394">
+        <media id="id1165287679394_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-ab8b.png" id="id1165287679394__onlineimage" height="627" width="484"/>
+        </media>
+      </figure>
+      <para id="id1165290260139"/>
+      <para id="id1165293178320">Conventional signs used on 1:50 000 maps</para>
+      <para id="id1165290726435">These signs form part of the “language” of topographic maps. They are provided in the key / reference below the map and are used the world over. You should get to know and understand them thoroughly.</para>
+      <para id="id1165287611381">Map symbols for cultural phenomena (phenomena created by people)</para>
+      <para id="id1165287609638">The signs used on maps are selected to be immediately recognisable for what they represent. Cultural phenomena that are shown are buildings, towns, power lines (in black) dams, canals (in blue) trees, plantations and fields (in green). These symbols are exaggerated on the map, because they would be too small to be represented if their actual sizes were represented.</para>
+      <para id="id1165287402158">Map symbols for natural phenomena</para>
+      <para id="id1165286204707">The most important natural phenomena are mountains, hills, valleys and plains. These phenomena, however, have to be deduced from contour lines and are not represented by specific symbols. We’ll be studying contour lines shortly.</para>
+      <para id="id1165287293739">Another important natural phenomenon shown on topographic maps is the drainage of any particular area. This is observed by examining the rivers and their tributaries, which are indicated in blue on a topographic map.</para>
+      <para id="id1165290551309">On topographic maps, perennial rivers are indicated by means of continuous blue lines, while the (seasonal) rivers of areas with low or seasonal rains are indicated with dotted lines).</para>
+      <para id="id1165291117899">The direction of the flow of a river also provides important information about the higher and lower parts of an area:</para>
+      <para id="id1165287374435">Water ALWAYS flows from high to lower places.</para>
+      <para id="id1165290895479">Tributaries flow into the main stream in the direction of the flow.</para>
+      <para id="id1165290245385">Example:</para>
+      <figure id="id1165290682788">
+        <media id="id1165290682788_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-b7ca.png" id="id1165290682788__onlineimage" height="44" width="141"/>
+        </media>
+      </figure>
+      <para id="id1165291031887">Observe the way in which dam walls are constructed across a river bed. The dam wall is always downstream.</para>
+      <para id="id1165290251811">Example:</para>
+      <figure id="id1165291126956">
+        <media id="id1165291126956_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-305d.png" id="id1165291126956__onlineimage" height="34" width="196"/>
+        </media>
+      </figure>
+      <para id="id1165297748176">Height prediction on a topographical map</para>
+      <para id="id1165291039261">Height can be indicated on a map in several ways.</para>
+      <para id="id1165292200220">The <emphasis effect="bold">trigonometric beacon</emphasis> is shown by means of a triangle with the beacon’s number to the right of the triangle, as well as its exact height above sea level, in metres, below the triangle. On a map, these beacons are usually shown to be on the highest parts.</para>
+      <para id="id1165291073865">Example:</para>
+      <para id="id1165290094291">
+        <figure id="id1165290118002">
+          <media id="id1165290118002_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 15.png" id="id1165290118002__onlineimage" height="158" width="404"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1165290270744"><emphasis effect="bold">SPOT HEIGHTS</emphasis> on a map are shown by means of black dots and the height value is printed alongside it.</para>
+      <para id="id1165290926495">● 1419</para>
+      <para id="id1165292719814">Example </para>
+      <para id="id1165297372492">The vertical difference in height between two high points is obtained by subtracting the lower measurement from the higher one,e.g.: A = 800 m; B = 200 m; Difference in height = 600 m.</para>
+      <para id="id1165287448596"><emphasis effect="bold">Contour lines</emphasis> are unbroken brown lines marked in number values.</para>
+      <para id="id1165290126212">Contour lines connect all places that have the same height above sea level. The figure printed on the line indicates the actual height in metres.</para>
+      <para id="id1165290744793">The difference in height between two consecutive contour lines is known as the <emphasis effect="bold">contour interval</emphasis> or vertical interval and is always 20 m. Each 100 m is indicated with a thicker contour line.</para>
+      <para id="id1165292183341">The further apart the contour lines are, the more level (flat) the landscape.</para>
+      <para id="id1165287719531">The closer to one another the contour lines are, the steeper and more mountainous the landscape.</para>
+      <para id="id1165287745766">Where there are perpendicular cliffs, contour lines touch. Remember, however, that contour lines never cross one another.</para>
+      <para id="id1165290063240">By examining the contours, you will be able to determine the direction in which a river is flowing and to identify certain forms of the landscape.</para>
+      <para id="id1165290733089">ACTIVITY 1:</para>
+      <para id="id1165291055630">[LO 1.4]</para>
+      <para id="id1165291163210">1. Explain what is represented by the following map symbols:</para>
+      <para id="id1165293269064">a)  </para>
+      <figure id="id1165292744518">
+        <media id="id1165292744518_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-bc3f.png" id="id1165292744518__onlineimage" height="13" width="9"/>
+        </media>
+      </figure>
+      <para id="id1165290681300">b)  </para>
+      <figure id="id1165290548460">
+        <media id="id1165290548460_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4.png" id="id1165290548460__onlineimage" height="24" width="35"/>
+        </media>
+      </figure>
+      <para id="id1165287428981">c)  </para>
+      <figure id="id1165292809692">
+        <media id="id1165292809692_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-937c.png" id="id1165292809692__onlineimage" height="11" width="66"/>
+        </media>
+      </figure>
+      <para id="id1165290260208">d)  </para>
+      <figure id="id1165290279365">
+        <media id="id1165290279365_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-68e8.png" id="id1165290279365__onlineimage" height="10" width="76"/>
+        </media>
+      </figure>
+      <para id="id1165290120151">e) </para>
+      <figure id="id1165287596215">
+        <media id="id1165287596215_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5.png" id="id1165287596215__onlineimage" height="27" width="20"/>
+        </media>
+      </figure>
+      <para id="id1165287715305"/>
+      <para id="id1165299090803">2. Carefully study the area between the N1 and the R81 (SE corner of the map). Name at least six map symbols that occur in this area.</para>
+      <para id="id1165287442011">3. Are there any indications that the railway is electrified?</para>
+      <para id="id1165291050296">4. What type of communication lines join Beaufort West with the outside world?</para>
+      <para id="id1165286207829">5. What map symbols will you find at the following coordinates?</para>
+      <para id="id1165287448065">a) 32º17’06”S ; 22 37’15”E </para>
+      <para id="id1165290259145">b) 32º19’11”S ; 22 34’04”E </para>
+      <para id="id1165290777082">c) 32º20’49”S ; 22 34’09”E </para>
+      <para id="id1165290733053">d) 32º19’26”S ; 22 37’28”E </para>
+      <para id="id1165287339624">6. What is the average height above sea level in the vicinity of the rifle range(32º19’06”S ; 22º35’37”E)?</para>
+      <para id="id1165299095561">7. What is the height of the highest trig. beacon on the topographic map?</para>
+      <para id="id1165292684731">8. What is the contour interval on this map?</para>
+      <para id="id1165290475046">9. Determine the vertical difference in length between Lammertjiesleegte (32º20’52”S; 22º33’37”E) and trig. beacon 148.</para>
+      <para id="id1165292785522">10. Is there any relation between the route of the railway and the relief of the area?</para>
+      <para id="id1165290195785">11. What is the name of the perennial river in this area?</para>
+      <para id="id1165290579344">12. In which direction does this river in no. 11 flow?</para>
+      <para id="id1165287794125">13. Do you think there is a flood danger in this area? Explain.</para>
+      <para id="id1165290224677">14. What indications are there on this map that stock farming occurs in this area?</para>
+      <para id="id1165295108536">15. What do you think is the purpose of the furrows indicated on the map?</para>
+      <para id="id1165290646933">16. What can you derive from the rainfall in this area?</para>
+    </section>
+    <section id="id1165291098745">
+      <title>Assessment</title>
+      <table id="id1165290770515" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning Outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry>LO 1</entry>
+            </row>
+            <row>
+              <entry>Geographical EnquiryThe learner will be able to use enquiry skills to investigate geographical and environmental concepts and processes.</entry>
+            </row>
+            <row>
+              <entry>Assessment Standards(ASs)</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry><list id="id1165290876881" list-type="bulleted"><item>identifies and selects a variety of </item></list>geographical and environmental sourcesthat are relevant to the research;</entry>
+            </row>
+            <row>
+              <entry><list id="id1165290492642" list-type="bulleted"><item>interprets information from maps and</item></list>atlases, as well as graphic and statisticalsources;</entry>
+            </row>
+            <row>
+              <entry><list id="id1165298511730" list-type="bulleted"><item>calculates distance from maps and</item></list>compares it to real distance;</entry>
+            </row>
+            <row>
+              <entry><list id="id1165290459468" list-type="bulleted"><item>identifies physical features and features</item></list>created by people and aerial photographsand maps.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1165287313467">
+      <title/>
+      <section id="id1165290782070">
+        <title>Memorandum</title>
+        <para id="id1165291103197">ACTIVITY:</para>
+        <list id="id1165290262245" list-type="enumerated" number-style="lower-alpha" mark-prefix="1. (" mark-suffix=")">
+          <item>Graves.</item>
+        </list>
+        <list id="id1165287479531" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+          <item>Excavations.</item>
+          <item>Provincial border.</item>
+          <item>Power lines.</item>
+          <item>Trigonometrical beacon</item>
+        </list>
+        <list id="id1165287648105" list-type="enumerated" number-style="arabic">
+          <item>Faint roads, rivers, buildings, railway lines, power lines, dams, windmill, forested area, cultivated lands, trigonometrical beacons, spot height, rows of trees.</item>
+          <item>None.</item>
+          <item>Roads, railway line.</item>
+        </list>
+        <list id="id1165287781942" list-type="enumerated" number-style="arabic" mark-suffix=". (a)">
+          <item>Railway line.</item>
+        </list>
+        <list id="id1165290619300" list-type="enumerated" mark-prefix="(b)">
+          <item>Faint footpaths.</item>
+        </list>
+        <list id="id1165287464186" list-type="enumerated" mark-prefix="(c)">
+          <item>Cultivated lands.</item>
+        </list>
+        <para id="id1165290207461">Built-up area. (Mgquba).</para>
+        <list id="id1165287307548" list-type="bulleted">
+          <item>±550 – 600 m.</item>
+          <item>ρ 318 (32°45'50"S, 26°52'0"E) is 653,6 m high.</item>
+          <item>20 metres.</item>
+          <item>Hillcrest = 540 m.</item>
+        </list>
+        <para id="id1165291010251">ρ 84 = 624,2.</para>
+        <para id="id1165290124277">624,2 – 540 = 84,2 metres.</para>
+        <list id="id1165290524969" list-type="bulleted">
+          <item>In general the railway lines follow the contour lines more than roads do.</item>
+          <item>Tyume.</item>
+          <item>Comes from the north and leaves the map in the south-west.</item>
+          <item>Yes, when it rains a lot the areas where the 2 main streams converge, can be flooded.</item>
+          <item>Irrigation dams and cultivated lands close to rivers.</item>
+          <item>Trees and bushes.</item>
+          <item>Moderate to reasonably high rainfall.</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

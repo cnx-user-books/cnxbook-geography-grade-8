@@ -1,0 +1,123 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Designation</title>
+  <metadata>
+  <md:content-id>m31601</md:content-id><md:title>Designation</md:title>
+  <md:abstract/>
+  <md:uuid>15542134-54e2-49d6-b63e-ffdf33790ce0</md:uuid>
+</metadata>
+
+<content>
+    <section id="id2349283">
+      <title>Social Sciences</title>
+      <para id="para-id2349283">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8968526">
+      <title>GEOGRAPHY</title>
+      <para id="para-id8968526">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2454465">
+      <title>Grade 8</title>
+      <para id="para-id2454465">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3900124">
+      <title>MAPWORK</title>
+      <para id="para-id3900124">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8968932">
+      <title>Module 13</title>
+      <para id="para-id8968932">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5414890">
+      <title>DESIGNATION OF TOPOGRAPHIC MAPS</title>
+      <para id="id8364357">Topographic maps of the RSA are drawn according to <emphasis effect="bold">degree square</emphasis>.</para>
+      <para id="id2607200">Each degree square is indicated by means of a number that consists of four figures. These figures are assembled from the values of the latitudinal and longitudinal degrees shown at the northwesterly corner of the map.</para>
+      <figure id="id8824500">
+        <media id="id8824500_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-cd82.png" id="id8824500__onlineimage" height="432" width="551"/>
+        </media>
+      </figure>
+      <para id="id2441643"/>
+      <para id="id5577888">The shaded square is the map sheet with which we are working at present.</para>
+      <para id="id2467914">What information does it provide?</para>
+      <para id="id8363475">2228 CD represents the following:</para>
+      <para id="id4786304">22 = 22º latitudinal line (South)</para>
+      <para id="id7220086">28 = 28º longitudinal line (East)</para>
+      <para id="id8354450">C = square divided into four squares that represent 30’ of a degree and are always named in the sequence AB.</para>
+      <para id="id7472027">      CD </para>
+      <para id="id6943738">B = the larger square C is also divided into four squares, each representing 15’ of a degree. The sequence in which they are named also is AB.</para>
+      <para id="id3058583">         CD </para>
+      <para id="id7990476">Each squared degree is therefore spread out over sixteen 1:50 000 topographic map sheets.</para>
+      <para id="id8696384">ACTIVITY 1:</para>
+      <para id="id6602907">[LO 1.2]</para>
+      <para id="id8973309">1. Indicate the location of the following 1:50 000 map sheets by making use of a representation.</para>
+      <para id="id8783183">2822 DA</para>
+      <para id="id2600055">3528 BC</para>
+      <para id="id3574849">2. Which map sheet lies immediately to the North of 2822 DA?</para>
+      <para id="id8709778">3. Which map sheet lies immediately to the East of 3528 BC?</para>
+      <para id="id6196544">4. Which map sheet west of 2822 DA? </para>
+      <para id="id6095084">5. Which map sheet lies South of 3528 BC? </para>
+    </section>
+    <section id="id8823490">
+      <title>Assessment</title>
+      <table id="id4329277" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning Outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry>LO 1</entry>
+            </row>
+            <row>
+              <entry>Geographical EnquiryThe learner will be able to use enquiry skills to investigate geographical and environmental concepts and processes.</entry>
+            </row>
+            <row>
+              <entry>Assessment Standards(ASs)</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry><list id="id8947510" list-type="bulleted"><item>identifies and selects a variety of </item></list>geographical and environmental sourcesthat are relevant to the research;</entry>
+            </row>
+            <row>
+              <entry><list id="id4280671" list-type="bulleted"><item>interprets information from maps and</item></list>atlases, as well as graphic and statisticalsources;</entry>
+            </row>
+            <row>
+              <entry><list id="id4320476" list-type="bulleted"><item>calculates distance from maps and</item></list>compares it to real distance;</entry>
+            </row>
+            <row>
+              <entry><list id="id8511496" list-type="bulleted"><item>identifies physical features and features</item></list>created by people and aerial photographsand maps.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id8956919">
+      <title>Memorandum</title>
+      <para id="id3236063">ACTIVITY:</para>
+      <figure id="id8238356">
+        <media id="id8238356_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-eff0.png" id="id8238356__onlineimage" height="275" width="650"/>
+        </media>
+      </figure>
+      <list id="id2237834" list-type="enumerated" number-style="arabic">
+        <item>2822 BC.</item>
+        <item>3528 BD.</item>
+        <item>2822 CB.</item>
+        <item>3528 DA.</item>
+      </list>
+    </section>
+  </content>
+</document>

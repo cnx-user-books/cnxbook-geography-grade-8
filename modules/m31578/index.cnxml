@@ -1,0 +1,270 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Direction and bearing</title>
+  <metadata>
+  <md:content-id>m31578</md:content-id><md:title>Direction and bearing</md:title>
+  <md:abstract/>
+  <md:uuid>e0265f99-99f8-4b87-8d0a-7d12798c323a</md:uuid>
+</metadata>
+
+<content>
+    <section id="id12745918">
+      <title>Social Sciences</title>
+      <para id="para-id12745918">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14482521">
+      <title>GEOGRAPHY</title>
+      <para id="para-id14482521">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id22237988">
+      <title>Grade 8</title>
+      <para id="para-id22237988">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id22879867">
+      <title>MAPWORK</title>
+      <para id="para-id22879867">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id22944180">
+      <title>Module 11</title>
+      <para id="para-id22944180">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5360124">
+      <title>DIRECTION AND BEARING</title>
+      <para id="id22935512">1. Why should we be able to read a map?</para>
+      <para id="id22365624">A map is a reduction of reality as it seen perpendicularly from above and drawn to a certain scale. The scale indicates the number of times by which reality is reduced.</para>
+      <para id="id11919978">A good map provides information with regard to location, direction, distance, relief, routes and more. The reader can therefore read the information with ease and draw precise conclusions from it.</para>
+      <para id="id23368186">The <emphasis effect="bold">series of</emphasis><emphasis effect="bold">1:50 000 topographic maps of South Africa </emphasis>will be used for our studies. This is a collection of maps that cover the whole of South Africa. Each map in the series has a number to indicate its exact location and what its coordinates are. (see section 2.2.3)</para>
+      <para id="id11792788">A topographic map does not present phenomena of the landscape only, but also pictures the topography (relief) of the landscape by means of contour lines (see section 2.5.3).</para>
+      <para id="id8560052">These maps are all drawn to a scale of 1:50 000. This means that each centimetre on the map in reality represents 50 000 centimetres of the landscape. The true size is therefore reduced 50 times (see section 2.4).</para>
+      <para id="id22582485">To be able to read the map, you have to know and understand the symbols that are used in mapping (see section 2.5).</para>
+      <para id="id22886305">2. The basic elements of a map</para>
+      <para id="id14483216">2.1 Direction and Bearing</para>
+      <para id="id14483604">To be useful, a map needs to indicate the direction in which North is located. If such an indication is missing, the map must be rotated to make it readable, i.e. to have words running from left to right. This will position the northern part of the map in the position that is furthest from the reader.</para>
+      <para id="id23478875"/>
+      <para id="id21384965"/>
+      <figure id="id5399690">
+        <media id="id5399690_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-1677.png" id="id5399690__onlineimage" height="246" width="622"/>
+        </media>
+      </figure>
+      <para id="id24793280">2.1.1 Direction</para>
+      <para id="id22963674">The position of different places on the map in respect of one another can be determined by </para>
+      <para id="id4043220">The direction of the compass</para>
+      <para id="id4638385">
+        <figure id="id8585182">
+          <media id="id8585182_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 1-d556.png" id="id8585182__onlineimage" height="229" width="237"/>
+          </media>
+        </figure>
+      </para>
+      <section id="id6170142">
+        <title>ACTIVITY 1:</title>
+        <para id="para-id6170142">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id22935384">
+        <title>Complete Figure 2 by labelling the 16 main compass points.</title>
+        <para id="para-id22935384">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id22637752">
+        <title>[LO 1.1] </title>
+        <para id="id22676475">Always take careful note of the point FROM which and the point TO which you have to work.</para>
+        <para id="id22288469">Example:</para>
+        <figure id="id6091489">
+          <media id="id6091489_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-9db7.png" id="id6091489__onlineimage" height="222" width="524"/>
+          </media>
+        </figure>
+        <para id="id7807831"/>
+        <para id="id14402422">What is the direction FROM A to B = ENE</para>
+        <para id="id7784574">What is the direction FROM B to C = S</para>
+        <para id="id22969641">What is the direction FROM C to D = W</para>
+        <para id="id7047065">What is the direction FROM C to A = NW</para>
+        <para id="id23361445">What is the direction FROM B to D = SW</para>
+        <para id="id14438988">What is the direction FROM D to A = NNW</para>
+        <para id="id12286474">What is the direction FROM A to D = SSE</para>
+        <para id="id13407950">2.1.2 Bearing</para>
+        <para id="id20988593">Bearing is a more accurate measurement that direction, because it is expressed as an ANGLE.</para>
+        <para id="id8351968">All bearings are taken to the right (clockwise) from NORTH by means of a protractor.</para>
+        <para id="id19611147">Take good note of the points FROM which and TO which you have to work to determine bearing.</para>
+        <para id="id22830575">The steps you have to take are:</para>
+        <para id="id8556944">Connect the relevant points by means of a pencilled line.</para>
+        <para id="id14499515">Draw the line to North through the point FROM which you have to take the measurement.</para>
+        <para id="id8595875">Position the protractor by placing 0º against the north line, with the centre on the point from which you have to measure.</para>
+        <para id="id22897055">Measure the angle from the north line to the connecting line (pencilled line of Step 1) to the right (clockwise).</para>
+        <para id="id22134184">Example 1:</para>
+        <table id="id22134188" summary="">
+          <tgroup cols="1">
+            <colspec colnum="1" colname="c1"/>
+            <tbody>
+              <row>
+                <entry>
+                  <media id="id8662577" alt="">
+                    <image mime-type="image/png" src="../../media/Picture 2-33e3.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>What is the bearing from A to B?</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id10960324">Example 2:</para>
+        <figure id="id22307340">
+          <media id="id22307340_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 3-db0c.png" id="id22307340__onlineimage" height="245" width="128"/>
+          </media>
+        </figure>
+        <para id="id20189594">What is the bearing from A to B?</para>
+      </section>
+      <section id="id19500034">
+        <title>ACTIVITY 2:</title>
+        <para id="para-id19500034">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id8585247">
+        <title>Study the map and calculate the direction and the bearing.</title>
+        <para id="para-id8585247">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id19225140">
+        <title>[LO 1.1]</title>
+        <para id="id8089781">
+          <figure id="id12886728">
+            <media id="id12886728_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics3-0d90.png" id="id12886728__onlineimage" height="308" width="650"/>
+            </media>
+          </figure>
+        </para>
+        <table id="id4652802" summary="">
+          <tgroup cols="1">
+            <colspec colnum="1" colname="c1"/>
+            <tbody>
+              <row>
+                <entry>What is the direction?</entry>
+              </row>
+              <row>
+                <entry>a) From A to B? </entry>
+              </row>
+              <row>
+                <entry>b) From C to B? </entry>
+              </row>
+              <row>
+                <entry>c) From C to D? </entry>
+              </row>
+              <row>
+                <entry>d) From D to E?</entry>
+              </row>
+              <row>
+                <entry>e) From E to B? </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id5472390" summary="">
+          <tgroup cols="1">
+            <colspec colnum="1" colname="c1"/>
+            <tbody>
+              <row>
+                <entry>What is the bearing?</entry>
+              </row>
+              <row>
+                <entry>a) From A to B? </entry>
+              </row>
+              <row>
+                <entry>b) From C to B? </entry>
+              </row>
+              <row>
+                <entry>c) From C to D? </entry>
+              </row>
+              <row>
+                <entry>d) From D to E? </entry>
+              </row>
+              <row>
+                <entry>e) From E to B?</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id22985884">
+      <title>Assessment</title>
+      <table id="id8558888" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning Outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry>LO 1</entry>
+            </row>
+            <row>
+              <entry>Geographical EnquiryThe learner will be able to use enquiry skills to investigate geographical and environmental concepts and processes.</entry>
+            </row>
+            <row>
+              <entry>Assessment Standards(ASs)</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry><list id="id12237308" list-type="bulleted"><item>identifies and selects a variety of </item></list>geographical and environmental sourcesthat are relevant to the research;</entry>
+            </row>
+            <row>
+              <entry><list id="id22992707" list-type="bulleted"><item>interprets information from maps and</item></list>atlases, as well as graphic and statisticalsources;</entry>
+            </row>
+            <row>
+              <entry><list id="id7513248" list-type="bulleted"><item>calculates distance from maps and</item></list>compares it to real distance;</entry>
+            </row>
+            <row>
+              <entry><list id="id8618031" list-type="bulleted"><item>identifies physical features and features</item></list>created by people and aerial photographsand maps.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id8535015">
+      <title>Memorandum</title>
+      <para id="id14504571">ACTIVITY 1:</para>
+      <figure id="id6567023">
+        <media id="id6567023_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-a395.png" id="id6567023__onlineimage" height="272" width="432"/>
+        </media>
+      </figure>
+      <para id="id5328572">ACTIVITY 2:</para>
+      <para id="id15989596">The Direction</para>
+      <list id="id20124901" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>SW</item>
+        <item>WSW</item>
+        <item>ENE</item>
+        <item>SSW</item>
+        <item>WNW</item>
+      </list>
+      <para id="id22756081">The bearing is</para>
+      <list id="id5374593" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>180 + 33 = ± 213º</item>
+        <item>180 69 = 249º</item>
+        <item>± 75º</item>
+        <item>± 23º</item>
+        <item>± 94º</item>
+      </list>
+    </section>
+  </content>
+</document>

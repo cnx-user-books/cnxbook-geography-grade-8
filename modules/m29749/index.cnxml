@@ -1,0 +1,212 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Scale and distance calculations</title>
+  <metadata>
+  <md:content-id>m29749</md:content-id><md:title>Scale and distance calculations</md:title>
+  <md:abstract/>
+  <md:uuid>5c98d852-4e89-4ae2-a58f-a5c310d6817e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165918751406">
+      <title>Social Sciences</title>
+      <para id="para-id1165918751406">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165928821206">
+      <title>GEOGRAPHY</title>
+      <para id="para-id1165928821206">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165927041678">
+      <title>Grade 8</title>
+      <para id="para-id1165927041678">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165921151146">
+      <title>MAPWORK</title>
+      <para id="para-id1165921151146">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165918450646">
+      <title>Module 14</title>
+      <para id="para-id1165918450646">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165912960520">
+      <title>SCALE AND CALCULATING DISTANCE</title>
+      <para id="id1165919004203">1. Scale and calculating distance</para>
+      <para id="id1165918562440">1.1 Scale</para>
+      <para id="id1165918542940"><emphasis effect="bold">Scale</emphasis> refers to how much smaller the map is than the actual earth area of the earth surface that is represented. You have already learnt about the <emphasis effect="bold">different kinds of scale</emphasis> that are used:</para>
+      <para id="id1165912993872">a) The <emphasis effect="bold">word scale</emphasis> expresses the scale in words, e.g. “One centimetre represents half a kilometre.”</para>
+      <para id="id1165918998874">b) The ratio scale is written as a ratio or a fraction,e.g. 1:50 000 or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mtext>50</m:mtext><m:mi/><m:mtext>000</m:mtext></m:mrow></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{"50"`"000"} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1165918355011">This means that one unit (e.g. cm) on the map represents 50 000 of the same unit (cm) of the earth surface.</para>
+      <para id="id1165929526020">c) The <emphasis effect="bold">linear scale</emphasis> is a line marked off in centimetres to indicate a corresponding distance on the earth in kilometres.</para>
+      <figure id="id1165912810907">
+        <media id="id1165912810907_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-0c64.png" id="id1165912810907__onlineimage" height="165" width="372"/>
+        </media>
+      </figure>
+      <para id="id1165918374868">Distance shown as 3,5 km</para>
+      <para id="id1165921207700">1.1.1 Measuring distance on a map</para>
+      <para id="id1165928261973">We will be making use of the topographic map series drawn to the scale of 1:50 000 throughout.</para>
+      <para id="id1165913886061">Work in the following manner to determine distance:</para>
+      <para id="id1165920948187">Use a ruler to measure the distance on the map accurately in centimetres.</para>
+      <para id="id1165912804360">Convert the distance to <emphasis effect="bold">km</emphasis> or <emphasis effect="bold">m</emphasis>, depending on what is required.</para>
+      <para id="id1165918398902">Example:<emphasis effect="italics"/></para>
+      <para id="id1165921241396">A_____________________________B</para>
+      <para id="id1165924190468"/>
+      <para id="id1165917462581"><emphasis effect="bold">Scale</emphasis> 1:50 000</para>
+      <para id="id1165918691293">The map distance between A and B is 10 cm.</para>
+      <para id="id1165921173099">What is the actual distance in km?</para>
+      <para id="id1165912915164">10 cm × 50 000</para>
+      <para id="id1165912972247">500 000 cm ÷ 100 000</para>
+      <para id="id1165912993915">= 5 km</para>
+      <para id="id1165915244461">What is the actual distance in m?</para>
+      <para id="id1165918739596">10 cm × 50 000</para>
+      <para id="id1165911600406">500 000 cm ÷ 100</para>
+      <para id="id1165912931333">= 5 000 m</para>
+      <para id="id1165924200323">Why do we divide by 100 000 and by 100?</para>
+      <para id="id1165927274207">The metric units of measurement can be represented as follows:</para>
+      <table id="id1165921175232" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Km</entry>
+              <entry>Hm</entry>
+              <entry>Dm</entry>
+              <entry>M</entry>
+              <entry>dm</entry>
+              <entry>cm</entry>
+              <entry>mm</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>0</entry>
+              <entry>0</entry>
+              <entry>0</entry>
+              <entry>0</entry>
+              <entry>0</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>1</entry>
+              <entry>0</entry>
+              <entry>0</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165918346788">We therefore have  100 000 cm in ’n km 100 cm in ’n metre</para>
+      <para id="id1165918518357">You may use a shorter method, if you can remember that the scale of 1:50 000 is the same as:</para>
+      <para id="id1165918774804">Now calculate the distance as follows:</para>
+      <para id="id1165915636574">10 cm × 0,5</para>
+      <para id="id1165912744732">= 5 km</para>
+      <para id="id1165921010265">10 cm × 500</para>
+      <para id="id1165919221201">= 500 m</para>
+      <para id="id1165914784489">If a meandering road has to be measured, the route should first be measured by laying a piece of string along is representation. Then measure the length of the string against a ruler and then use the method suggested above, or the linear scale.</para>
+      <figure id="id1165913034030">
+        <media id="id1165913034030_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-505c.png" id="id1165913034030__onlineimage" height="286" width="633"/>
+        </media>
+      </figure>
+      <para id="id1165921355129">ACTIVITY:</para>
+      <para id="id1165918890842">1. Calculate the actual distance in metres if the distance on the 1:50 000 topographic map is as follows:</para>
+      <para id="id1165913038698">a) 2,3 cm</para>
+      <para id="id1165912908405">b) 6,8 cm</para>
+      <para id="id1165917384121">c)  5,5 cm</para>
+      <para id="id1165912807129">2. Calculate the actual distance in kilometres if the distance on the 1:50 000 topographic map is as follows:</para>
+      <para id="id1165929804426">a) 90,4 cm</para>
+      <para id="id1165919813093">b) 56,3 cm</para>
+      <para id="id1165911765694">c) 103,6 cm</para>
+      <para id="id1165919092496">3. Study the 1:50 000 topographical map of Beaufort West and answer the following questions:</para>
+      <para id="id1165911473788">a) What is the distance (as the crow flies) in km from Grootplaat (32º16’15”S; 22º34’36”E) to Lammertjiesleegte (spot height 881) (32º19’50” S; 22º32’50” E)?</para>
+      <para id="id1165919011390"/>
+      <para id="id1165923985665">b) How far will you travel (on the N1) in your car from the Motel (32º20’00”S; 22º35’09”E) to the train bridge (32º21’48” S; 22º33’43”E).</para>
+      <para id="id1165911691135">c) What is the distance in metres of the Springfontein dam wall? (33º20’39”S; 22º35’08”E)</para>
+      <para id="id1165927555672">[LO 1.3]</para>
+    </section>
+    <section id="id1165912880732">
+      <title>Assessment</title>
+      <table id="id1165912888228" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning Outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry>LO 1</entry>
+            </row>
+            <row>
+              <entry>Geographical EnquiryThe learner will be able to use enquiry skills to investigate geographical and environmental concepts and processes.</entry>
+            </row>
+            <row>
+              <entry>Assessment Standards(ASs)</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry><list id="id1165918956166" list-type="bulleted"><item>identifies and selects a variety of </item></list>geographical and environmental sourcesthat are relevant to the research;</entry>
+            </row>
+            <row>
+              <entry><list id="id1165925966658" list-type="bulleted"><item>interprets information from maps and</item></list>atlases, as well as graphic and statisticalsources;</entry>
+            </row>
+            <row>
+              <entry><list id="id1165912874776" list-type="bulleted"><item>calculates distance from maps and</item></list>compares it to real distance;</entry>
+            </row>
+            <row>
+              <entry><list id="id1165913779324" list-type="bulleted"><item>identifies physical features and features</item></list>created by people and aerial photographsand maps.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1165911385720">
+      <title>Memorandum</title>
+      <para id="id1165912898178">ACTIVITY:</para>
+      <list id="id1165919077309" list-type="enumerated" mark-prefix="1.1">
+        <item>1150 m.</item>
+      </list>
+      <list id="id1165920150568" list-type="enumerated" mark-prefix="1.2">
+        <item>3400 m.</item>
+      </list>
+      <list id="id1165919095768" list-type="enumerated" mark-prefix="1.3">
+        <item>2750 m.</item>
+      </list>
+      <list id="id1165911470635" list-type="enumerated" number-style="arabic" mark-suffix=".1">
+        <item>45,2 km.</item>
+      </list>
+      <list id="id1165917441627" list-type="enumerated" number-style="arabic" mark-suffix=".2">
+        <item>28,25 km.</item>
+      </list>
+      <list id="id1165926346499" list-type="enumerated" number-style="arabic" mark-suffix=".1">
+        <item>51,8 km.</item>
+        <item>4 cm x ,5 = 2 km.</item>
+      </list>
+      <list id="id1165925333703" list-type="enumerated" number-style="arabic" mark-suffix=".2">
+        <item>± 10,8 X ,5 = 5,4 km.</item>
+      </list>
+      <list id="id1165912914237" list-type="enumerated" number-style="arabic" mark-suffix=".3">
+        <item>± ,4 cm X 500 = 200 m.</item>
+      </list>
+    </section>
+  </content>
+</document>
